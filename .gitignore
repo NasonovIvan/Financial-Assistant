@@ -1,0 +1,8 @@
+**/.env
+**/__pycache__/
+**/.venv/
+**/.DS_Store
+
+**/travel_main.py
+**/session.session
+**/templates
