@@ -86,6 +86,7 @@ tzdata = "2024.2"
 urllib3 = "2.2.3"
 werkzeug = "3.0.4"
 yarl = "1.15.2"
+openai = "^1.58.1"
 
 
 [build-system]
